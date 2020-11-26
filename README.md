@@ -2,14 +2,16 @@
 
 override new mono icons with old color icons
 
+![](./screenshots/thunderbird_icons.png)
+
 ## using userChrome
 
 Place `userChrome.css` into `$profile/chrome` folder
 
 ### enable userChrome.css
 
-`Settings/Options` > `Advanced` > `General` > `Config Editor...`
-`toolkit.legacyUserProfileCustomizations.stylesheets` > `true`
+`Preferences` > `Scroll to Bottom` > `Config Editor...`
+`toolkit.legacyUserProfileCustomizations.stylesheets` : `true`
 
 ### profile folder
 
