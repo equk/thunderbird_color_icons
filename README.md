@@ -4,6 +4,12 @@ override new mono icons with old color icons
 
 ![](./screenshots/thunderbird_icons.png)
 
+## usage
+
+To use this you will need to copy the `chrome` folder to your current profile.
+
+If you already have userChrome overrides you may want to manually edit your existing file (& copy the provided icons).
+
 ## using userChrome
 
 Place `userChrome.css` into `$profile/chrome` folder
